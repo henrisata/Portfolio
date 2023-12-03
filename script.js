@@ -45,6 +45,3 @@ link8.addEventListener('click', () => {
   scrollToElement('.column');
 });
 
-link9.addEventListener('click', () => {
-  scrollToElement('.column');
-});
