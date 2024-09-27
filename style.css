@@ -150,10 +150,9 @@ section .header{
 
 .features .card{
   background-color: rgb(40, 39, 42);
-  padding-top: 0.5rem;
-  padding-right: 2rem;
-  padding-left: 2rem;
-  padding-bottom: 3rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  padding-bottom: 2.5rem;
   border: 2px solid transparent;
   border-radius: 15px;
   transition: all 0.3s ease;
